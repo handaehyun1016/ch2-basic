@@ -1,2 +1,1 @@
-Git Test2 main
-Branch A
+branch B
